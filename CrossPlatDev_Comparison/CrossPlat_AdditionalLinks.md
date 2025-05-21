@@ -73,3 +73,7 @@ https://www.jocheojeda.com/2025/03/07/my-adventures-picking-a-ui-framework-why-i
 Choosing a framework to build a native app on Windows with .NET ~ Matt Lacey - Software Developer
 
 https://www.mrlacey.com/2025/04/choosing-framework-to-build-native-app.html
+
+Xamarin alternatives for cross-platform mobile development
+
+https://raygun.com/blog/xamarin-alternatives-mobile-development/
